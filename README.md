@@ -32,12 +32,12 @@ If you prefer faster processing using Groq, sign up for a Groq API key:
 ## Running the Demo
 Clone this repository or download the code files:
 ```
-git clone https://github.com/your-username/pdf-chatter.git
-cd pdf-chatter
+git clone https://github.com/your-username/PDF_Chatter.git
+cd PDF_Chatter
 ```
 Start the Streamlit app:
 ```
-streamlit run app.py
+streamlit run PdfChatApp.py
 ```
 Open your browser and navigate to the URL provided by Streamlit (e.g., http://localhost:8501).
 Upload a PDF file and start chatting with it!
