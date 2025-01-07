@@ -19,13 +19,13 @@ pip install streamlit langchain streamlit-pdf-viewer langchain_ollama langchain_
 
 ### Step 2: Install and Configure Ollama
 To use Ollama embeddings or models, download and install the Ollama app:
-- Visit the [@Ollama Website](https://ollama.com/) to download the app.
+- Visit the [Ollama Website](https://ollama.com/) to download the app.
 - Follow the installation instructions for your operating system.
 - Once installed, ensure the Ollama service is running.
 
 ### Step 3: Set Up Groq API (Optional)
 If you prefer faster processing using Groq, sign up for a Groq API key:
-- Visit the [@Groq Website](https://groq.com/).
+- Visit the [Groq Website](https://groq.com/).
 - Obtain your API key.
 - Replace "Your Groq API Key" in the code with your actual key.
 
