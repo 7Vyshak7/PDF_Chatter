@@ -11,7 +11,7 @@ from langchain.chains import RetrievalQA
 
 
 llm = ChatGroq(temperature=0.1, groq_api_key="Your Groq API Key", model_name="llama-3.3-70b-versatile") # Faster Loading since we use API
-# llm = ChatOllama(model='llama3') # Completley on local
+# llm = ChatOllama(model='llama3') # Completly on local
 
 st.set_page_config(page_title="PDF Chatbot", layout="wide")
 st.title("📄 PDF Chatter")
